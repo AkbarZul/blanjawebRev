@@ -12,9 +12,6 @@ Project membuat front-end blanja web menggunakan React dan database MYSQL.
 Berikut panduan untuk menjalankan project ini secara lokal
 ### How to install
 
-* Clone Repository
-    ```sh
-    https://github.com/Shhb0420/RESTful-API-blanja-app-using-ExpressJs
     ```
 * ReactJS
     ```sh
